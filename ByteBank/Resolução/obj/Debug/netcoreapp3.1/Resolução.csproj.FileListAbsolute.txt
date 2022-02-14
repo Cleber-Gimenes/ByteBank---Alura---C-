@@ -1,0 +1,13 @@
+C:\Users\Cleber\source\repos\ByteBank\Resolução\bin\Debug\netcoreapp3.1\Resolução.exe
+C:\Users\Cleber\source\repos\ByteBank\Resolução\bin\Debug\netcoreapp3.1\Resolução.deps.json
+C:\Users\Cleber\source\repos\ByteBank\Resolução\bin\Debug\netcoreapp3.1\Resolução.runtimeconfig.json
+C:\Users\Cleber\source\repos\ByteBank\Resolução\bin\Debug\netcoreapp3.1\Resolução.runtimeconfig.dev.json
+C:\Users\Cleber\source\repos\ByteBank\Resolução\bin\Debug\netcoreapp3.1\Resolução.dll
+C:\Users\Cleber\source\repos\ByteBank\Resolução\bin\Debug\netcoreapp3.1\Resolução.pdb
+C:\Users\Cleber\source\repos\ByteBank\Resolução\obj\Debug\netcoreapp3.1\Resolução.AssemblyInfoInputs.cache
+C:\Users\Cleber\source\repos\ByteBank\Resolução\obj\Debug\netcoreapp3.1\Resolução.AssemblyInfo.cs
+C:\Users\Cleber\source\repos\ByteBank\Resolução\obj\Debug\netcoreapp3.1\Resolução.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\ByteBank\Resolução\obj\Debug\netcoreapp3.1\Resolução.dll
+C:\Users\Cleber\source\repos\ByteBank\Resolução\obj\Debug\netcoreapp3.1\Resolução.pdb
+C:\Users\Cleber\source\repos\ByteBank\Resolução\obj\Debug\netcoreapp3.1\Resolução.genruntimeconfig.cache
+C:\Users\Cleber\source\repos\ByteBank\Resolução\obj\Debug\netcoreapp3.1\Resolução.csproj.AssemblyReference.cache

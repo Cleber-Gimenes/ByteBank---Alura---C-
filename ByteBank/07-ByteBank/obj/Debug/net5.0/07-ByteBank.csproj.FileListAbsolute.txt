@@ -1,0 +1,16 @@
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.exe
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.deps.json
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.runtimeconfig.json
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.runtimeconfig.dev.json
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.dll
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\bin\Debug\net5.0\ref\07-ByteBank.dll
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.pdb
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.AssemblyInfo.cs
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.dll
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\ref\07-ByteBank.dll
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.pdb
+C:\Users\Cleber\source\repos\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.genruntimeconfig.cache
